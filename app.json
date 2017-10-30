@@ -1,5 +1,8 @@
 {
   "expo": {
-    "sdkVersion": "22.0.0"
+    "name": "react native seed",
+    "slug": "noavaran-react-native-seed",
+    "sdkVersion": "22.0.0",
+    "privacy": "public"
   }
 }
